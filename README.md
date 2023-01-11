@@ -26,3 +26,4 @@ For any support, please contact us at support@stockwolf.org or visit our [Suppor
 
 Stockwolf is released under the [GPLv3 License](https://www.stockwolf.org/license/).
 
+###  Still in developmen and it's not redy fot the public
