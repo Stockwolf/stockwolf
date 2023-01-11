@@ -1,9 +1,5 @@
-### Hi there 👋
 
-<!--
-**Stockwolf/stockwolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# Stockwolf Alpha
+### Stockwolf Alpha
 
 Stockwolf is an AI-powered chess engine designed to be easy to use and actively learn. The Stockwolf chess engine powered by Tensorflow and it's a open-source project.
 
